@@ -24,3 +24,5 @@ npm install
 ```shell
 npm run start
 ```
+If you not use vite you can run this app locally with:
+`npm install` and then `npm run dev`
